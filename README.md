@@ -38,3 +38,13 @@ Price impact is shared across maturities.
 Tests are independent scenarios, not a continuous backtest.
 Banks, leverage, margin calls and funding networks are excluded.
 Results are simulated outcomes, not observed fund losses.
+
+## How to run
+
+1. Open the notebook in Google Colab.
+2. Upload nominal_spot_observed.csv.
+3. Run all cells from top to bottom.
+4. Use the dashboard controls to select a historical shock,
+   withdrawal rate and price-impact coefficient.
+
+Dependencies: numpy, pandas, matplotlib, ipywidgets.
