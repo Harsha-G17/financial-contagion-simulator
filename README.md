@@ -1,4 +1,3 @@
-# financial-contagion-simulator
 
 # Financial Contagion and Liquidity Crisis Simulator
 ## Version 1: Fund fire-sale contagion
